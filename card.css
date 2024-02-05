@@ -1,15 +1,15 @@
 body {
-    background-color: hsl(0, 0%, 12%);
+    background-color: hsl(0, 0%, 8%);
     padding: 10px 400px;
     font-family: 'Inter', sans-serif;
-    max-width: 1400px;
-    width: 500px;
+    max-width: 1440px;
+    width: 400px;
     margin: 90px;
     border: 300px;
 }
 
 .navbar_navigation {
-    background-color: hsl(0, 0%, 20%);
+    background-color: hsl(0, 0%, 12%);
     border-radius: 8px;
     flex-direction: column;
     align-items: center;
@@ -58,7 +58,7 @@ body {
 
 .centerbar .navbar_navigation .botao1 {
     padding: 10px 10px;
-    background-color:#5d5d5d;
+    background-color:hsl(0, 0%, 20%);
     border-radius: 10px;
     align-items: center;
     flex-direction: column;
@@ -76,7 +76,7 @@ body {
 
 .centerbar .navbar_navigation .botao2 {
     padding: 10px 10px;
-    background-color:#5d5d5d;
+    background-color:hsl(0, 0%, 20%);
     border-radius: 10px;
     align-items: center;
     flex-direction: column;
@@ -94,7 +94,7 @@ body {
 
 .centerbar .navbar_navigation .botao3 {
     padding: 10px 10px;
-    background-color:#5d5d5d;
+    background-color:hsl(0, 0%, 20%);
     border-radius: 10px;
     align-items: center;
     flex-direction: column;
@@ -112,7 +112,7 @@ body {
 
 .centerbar .navbar_navigation .botao4 {
     padding: 10px 10px;
-    background-color:#5d5d5d;
+    background-color:hsl(0, 0%, 20%);
     border-radius: 10px;
     align-items: center;
     flex-direction: column;
@@ -130,7 +130,7 @@ body {
 
 .centerbar .navbar_navigation .botao5 {
     padding: 10px 10px;
-    background-color:#5d5d5d;
+    background-color:hsl(0, 0%, 20%);
     border-radius: 10px;
     align-items: center;
     flex-direction: column;
